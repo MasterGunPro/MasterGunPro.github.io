@@ -72,7 +72,7 @@ var configuration = [
 		]
 	},
 	{
-		model: "MG_02_Light",
+		model: "MG_02",
 		products: [
 			{
 				sku: "D_110", //Регулируемый по длине приклад
