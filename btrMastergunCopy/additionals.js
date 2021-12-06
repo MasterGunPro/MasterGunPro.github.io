@@ -148,7 +148,7 @@ var configuration = [
 		]
 	},
 	{
-		model: "MG_04_Hunter",
+		model: "MG_04",
 		products: [
 			{
 				sku: "D_110", //Регулируемый по длине приклад
