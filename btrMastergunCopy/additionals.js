@@ -9,7 +9,7 @@ var configuration = [
 			{ sku: "D_111", price: "10700" },
 			{ sku: "D_112", price: "3500" },
 			{ sku: "D_113", price: "5500" },
-			//{ sku: "D_101", price: "6000" },
+			{ sku: "D_101", price: "6000" },
 			{ sku: "D_103", price: "2700" },
 			{ sku: "D_104", price: "2000" },
 			{ sku: "D_106", price: "900" },
@@ -30,16 +30,6 @@ var configuration = [
 			{ sku: "D_823", visible: false }, //Магазин стандарта AICs 12 местный
 			{ sku: "D_003", visible: false }, //Комплект лазерной насечки (МГ-03)
 			{ sku: "D_004", visible: false }, //Комплект лазерной насечки (МГ-05)
-		]
-	},
-	{
-		rifle: "R_A1416", "R_BCMI", "R_CZ-457", "R_CZ-452", "R_CZ-455", "R_CZ-527", "R_CZ-550", "R_CZ-557", "R_F_H", "R_K-98", "R_SRC", "R_SR600", "R_TG-2", "R_Z-M70", 
-		products: [
-			{
-				sku: "D_101", //Беддинг-Блок
-				visible: true,
-				price: 5999
-			},
 		]
 	},
 	{
