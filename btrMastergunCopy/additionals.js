@@ -33,7 +33,7 @@ var configuration = [
 		]
 	},
 	{
-		rifle: "R_A1416",
+		rifle: "R_A1416", "R_BCMI",
 		products: [
 			{
 				sku: "D_101", //Беддинг-Блок
