@@ -163,6 +163,266 @@ var configuration = [
 		]
 	},
 	{
+		rifle: "R_H-SR-21",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 8000
+			},
+		]
+	},
+	{
+		rifle: "R_M-SSG-69",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 8000
+			},
+		]
+	},
+	{
+		rifle: "R_M-M12",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 8000
+			},
+		]
+	},
+	{
+		rifle: "R_S-85",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 8000
+			},
+		]
+	},
+	{
+		rifle: "R_S-100",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 8000
+			},
+		]
+	},
+	{
+		rifle: "R_S_101",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 8000
+			},
+		]
+	},
+	{
+		rifle: "R_S-A7",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 8000
+			},
+		]
+	},
+	{
+		rifle: "R_T-T3-CTR",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 8000
+			},
+		]
+	},
+	{
+		rifle: "R_T-T3",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 8000
+			},
+		]
+	},
+	{
+		rifle: "R_M-SBS-96",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 8000
+			},
+		]
+	},
+	{
+		rifle: "R_M03",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 11000
+			},
+		]
+	},
+	{
+		rifle: "R_BR8",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 12000
+			},
+		]
+	},
+	{
+		rifle: "R_BR93",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 12000
+			},
+		]
+	},
+	{
+		rifle: "R_B141-S",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
+		rifle: "R_B141-SK",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
+		rifle: "R_B-145",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
+		rifle: "R_B4-1",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
+		rifle: "R_KO-44",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
+		rifle: "R_KO-91/30",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
+		rifle: "R_L7",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
+		rifle: "R_L7-1",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
+		rifle: "R_O-120",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
+		rifle: "R_O-220",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
+		rifle: "R_OA",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
+		rifle: "R_OH",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
+		rifle: "R_O-140",
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5000
+			},
+		]
+	},
+	{
 		rifle: "R_BR93",
 		products: [
 			{
