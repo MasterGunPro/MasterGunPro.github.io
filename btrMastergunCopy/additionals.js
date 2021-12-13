@@ -33,6 +33,16 @@ var configuration = [
 		]
 	},
 	{
+		rifle: "R_A1416","R_BCMI","R_CZ-457","R_CZ-452","R_CZ-455","R_CZ-527","R_CZ-550","R_CZ-557","R_F_H","R_K-98","R_SRC","R_SR600","R_TG-2","R_Z-M70", 
+		products: [
+			{
+				sku: "D_101", //Беддинг-Блок
+				visible: true,
+				price: 5999
+			},
+		]
+	},
+	{
 		rifle: "R_BR93",
 		products: [
 			{
