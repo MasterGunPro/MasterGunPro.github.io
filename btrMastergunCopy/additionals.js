@@ -680,6 +680,10 @@ var configuration = [
 		rifle: "R_COK-95",//сок -95
 		products: [{sku: "D_101", /*Беддинг блок*/visible: false}]
 	},
+	{
+		rifle: "R_S-303",//Sauer 303
+		products: [{sku: "D_101", /*Беддинг блок*/visible: false}]
+	},
 ];
 
 
