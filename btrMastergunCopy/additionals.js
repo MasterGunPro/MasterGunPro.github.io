@@ -3,7 +3,7 @@ var configuration = [
 		products: [
 			//Общие аксессуары
 			{ sku: "D_108", price: "1500" },
-			{ sku: "D_102", price: "3700" },
+			{ sku: "D_102", price: "4500" },
 			{ sku: "D_109", price: "1200" },
 			{ sku: "D_105", price: "1800" },
 			{ sku: "D_111", price: "10700" },
@@ -14,9 +14,9 @@ var configuration = [
 			{ sku: "D_104", price: "2000" },
 			{ sku: "D_106", price: "900" },
 			{ sku: "D_107", price: "1200" },
-			{ sku: "D_110", price: "2200" },
-			{ sku: "D_001", price: "2700" },
-			{ sku: "D_002", price: "3700" },
+			{ sku: "D_110", price: "3500" },
+			{ sku: "D_001", price: "2100" },
+			{ sku: "D_002", price: "3200" },
 			{ sku: "D_819", price: "1200" },
 
 			//Аксессуары отображающиеся по условию
@@ -428,7 +428,7 @@ var configuration = [
 			{
 				sku: "D_114", //Шасси
 				visible: true,
-				price: 67000
+				price: 75000
 			},
 		]
 	},
@@ -438,7 +438,7 @@ var configuration = [
 			{
 				sku: "D_116", //Шасси
 				visible: true,
-				price: 62000
+				price: 65000
 			},
 		]
 	},
@@ -448,7 +448,7 @@ var configuration = [
 			{
 				sku: "D_002", //Комплект лазерной насечки
 				url: "modelPhotos/MG-01_D_002_mastergun_pro1.png",
-				price: 3700
+				price: 3200
 			},
 			{
 				sku: "D_003", //Комплект лазерной насечки (МГ-03)
@@ -485,17 +485,17 @@ var configuration = [
 			{
 				sku: "D_115", //Комплект кожаных встравок
 				visible: true,
-				price: 7000
+				price: 6000
 			},
 			{
 				sku: "D_315", //Шильдик на гребень
 				visible: true,
-				price: 1500
+				price: 2700
 			},
 			{
 				sku: "D_110", //Регулируемый по длине приклад
 				url: "modelPhotos/MG-03_D_110_mastergun.png",
-				price: 4500
+				price: 3500
 			},
 			{
 				sku: "D_002", //Комплект лазерной насечки (МГ-03)
@@ -504,7 +504,7 @@ var configuration = [
 			{
 				sku: "D_003", //Комплект лазерной насечки (МГ-03)
 				url: "modelPhotos/MG-03_D_003_mastergun_pro1.png",
-				price: 3700
+				price: 3200
 			},
 		]
 	},
@@ -514,12 +514,12 @@ var configuration = [
 			{
 				sku: "D_115", //Комплект кожаных встравок
 				visible: true,
-				price: 7000
+				price: 6000
 			},
 			{
 				sku: "D_315", //Шильдик на гребень
 				visible: true,
-				price: 1500
+				price: 2700
 			},
 			{
 				sku: "D_002", //Комплект лазерной насечки (МГ-03)
@@ -528,12 +528,12 @@ var configuration = [
 			{
 				sku: "D_003", //Комплект лазерной насечки (МГ-03)
 				url: "modelPhotos/MG-03_D_003_mastergun_pro1.png",
-				price: 3700
+				price: 3200
 			},
 			{
 				sku: "D_110", //Регулируемый по длине приклад
 				url: "modelPhotos/MG-03_D_110_mastergun.png",
-				price: 4500
+				price: 3500
 			},
 		]
 	},
@@ -561,7 +561,7 @@ var configuration = [
 			{
 				sku: "D_004", //Комплект лазерной насечки (МГ-05)
 				url: "modelPhotos/MG-05_D_004_mastergun_pro1.png",
-				price: 3700
+				price: 3200
 			},
 			{
 				sku: "D_002", //Комплект лазерной насечки (МГ-01)
@@ -574,7 +574,7 @@ var configuration = [
 			{
 				sku: "D_110", //Регулируемый по длине приклад
 				url: "modelPhotos/MG-05_D_110_mastergun.png",
-				price: 4500
+				price: 3500
 			},
 		]
 	},
