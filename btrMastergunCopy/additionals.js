@@ -458,6 +458,14 @@ var configuration = [
 				sku: "D_004", //Комплект лазерной насечки (МГ-05)
 				visible: false
 			},
+			{
+				sku: "D_103", //Рельсовый интерфейс M-LOK
+				visible: false
+			},
+			{
+				sku: "D_109", //Крепление антабки на M-LOK
+				visible: false
+			},
 			
 		]
 	},
@@ -506,6 +514,14 @@ var configuration = [
 				url: "modelPhotos/MG-03_D_003_mastergun_pro1.png",
 				price: 3700
 			},
+			{
+				sku: "D_103", //Рельсовый интерфейс M-LOK
+				visible: false
+			},
+			{
+				sku: "D_109", //Крепление антабки на M-LOK
+				visible: false
+			},
 		]
 	},
 	{
@@ -534,6 +550,14 @@ var configuration = [
 				sku: "D_110", //Регулируемый по длине приклад
 				url: "modelPhotos/MG-03_D_110_mastergun.png",
 				price: 3500
+			},
+			{
+				sku: "D_103", //Рельсовый интерфейс M-LOK
+				visible: false
+			},
+			{
+				sku: "D_109", //Крепление антабки на M-LOK
+				visible: false
 			},
 		]
 	},
@@ -575,6 +599,14 @@ var configuration = [
 				sku: "D_110", //Регулируемый по длине приклад
 				url: "modelPhotos/MG-05_D_110_mastergun.png",
 				price: 3500
+			},
+			{
+				sku: "D_103", //Рельсовый интерфейс M-LOK
+				visible: false
+			},
+			{
+				sku: "D_109", //Крепление антабки на M-LOK
+				visible: false
 			},
 		]
 	},
