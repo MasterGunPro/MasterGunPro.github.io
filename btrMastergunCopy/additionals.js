@@ -809,6 +809,10 @@ var configuration = [
 		rifle: "R_O-120",//Орсис
 		products: [{sku: "D_820", /*магазин*/visible: false}]
 	},
+	{
+		rifle: "R_B4-1",//Барс4-1
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
 ];
 
 
