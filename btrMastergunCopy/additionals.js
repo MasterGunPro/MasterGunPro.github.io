@@ -652,7 +652,8 @@ var configuration = [
 			},
 			{
 				sku: "D_107", //Быстросъемные антабки
-				visible: false,
+				visible: true,
+				price: 1800
 			},
 			{
 				sku: "D_106", //Крепление для антабок
