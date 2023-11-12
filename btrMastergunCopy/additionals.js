@@ -813,6 +813,10 @@ var configuration = [
 		rifle: "R_B4-1",//Барс4-1
 		products: [{sku: "D_820", /*магазин*/visible: false}]
 	},
+	{
+		rifle: "R_V212",//ВПО-215 (Горностай)
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
 ];
 
 
