@@ -648,12 +648,8 @@ var configuration = [
 			},
 			{
 				sku: "D_105", //Быстросъемные антабки QD
-				visible: false,
-			},
-			{
-				sku: "D_107", //Быстросъемные антабки
 				visible: true,
-				price: 1800
+				price: 2500
 			},
 			{
 				sku: "D_106", //Крепление для антабок
