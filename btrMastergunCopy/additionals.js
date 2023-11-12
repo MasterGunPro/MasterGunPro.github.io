@@ -283,15 +283,6 @@ var configuration = [
 		]
 	},
 	{
-		rifle: "R_BR8",
-		products: [
-			{
-				sku: "D_820", //Магазин 5 местный
-				visible: false
-			},
-		]
-	},
-	{
 		rifle: "R_BR93",
 		products: [
 			{
@@ -725,6 +716,10 @@ var configuration = [
 	{
 		rifle: "R_S-303",//Sauer 303
 		products: [{sku: "D_101", /*Беддинг блок*/visible: false}]
+	},
+	{
+		rifle: "R_BR8",//Blaser R8
+		products: [{sku: "D_820", /*магазин*/visible: false}]
 	},
 ];
 
