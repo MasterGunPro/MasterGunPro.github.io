@@ -721,6 +721,94 @@ var configuration = [
 		rifle: "R_BR8",//Blaser R8
 		products: [{sku: "D_820", /*магазин*/visible: false}]
 	},
+	{
+		rifle: "R_TG-2",//ATA Arms Turqua Gen 2
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_CZ-455",//CZ-455
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_CZ-457",//CZ-457
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_CZ-550",//CZ-550
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_CZ-557",//CZ-557
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_F_H",//Franchi Horizon
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_HJ-10",//Haenel Jaeger 10
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_H-SR-21",//Heym SR-21
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_R-700",//Remington 700
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_R-T6",//Roessler Titan 6
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_S_101",//Sauer 101
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_S-85",//Sako 85
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_SR600",//Sabatti
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_T-T3",//Tikka T3
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_Z-M70",//Zastava M70
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_B141-S",//Baikal 141 Соболь
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_B141-SK",//Baikal 141 Соболь Компакт
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_B-145",//Baikal 145
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_KO-44",//KO-44
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_L7-1",//Лось 7-1
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_C-22_lr",//Соболь 22 lr
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
+		rifle: "R_O-120",//Орсис
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
 ];
 
 
