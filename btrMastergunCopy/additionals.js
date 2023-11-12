@@ -283,6 +283,15 @@ var configuration = [
 		]
 	},
 	{
+		rifle: "R_BR8",
+		products: [
+			{
+				sku: "D_820", //Магазин 5 местный
+				visible: false
+			},
+		]
+	},
+	{
 		rifle: "R_BR93",
 		products: [
 			{
