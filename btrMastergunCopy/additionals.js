@@ -667,23 +667,23 @@ var configuration = [
 			},
 			{
 				sku: "D_106", //Крепление для антабок
-				visible: false,
+				visible: false
 			},
 			{
 				sku: "D_001", //Защитное антискользящее покрытие
-				visible: false,
+				visible: false
 			},
 			{
 				sku: "D_110", //Регулируемый по длине приклад
-				visible: false,
+				visible: false
 			},
 			{
 				sku: "D_103", //Рельсовый интерфейс M-LOK
-				visible: false,
+				visible: false
 			},
 			{
 				sku: "D_101", //Беддинг блок 
-				visible: false,
+				visible: false
 			},
 			{
 				sku: "D_104", //Втулки крепления ресивера
