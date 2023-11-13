@@ -623,6 +623,11 @@ var configuration = [
 				visible: true,
 				price: 1700
 			},
+		]
+	},
+	{
+		model: "MG_08",
+		products: [
 			{
 				sku: "D_820", //Магазин стандарта AICS 5 местный
 				visible: true,
