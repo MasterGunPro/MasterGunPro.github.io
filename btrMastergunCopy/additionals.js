@@ -2,10 +2,10 @@ var configuration = [
 	{
 		products: [
 			//Общие аксессуары
-			{ sku: "D_108", price: "1800" },
-			{ sku: "D_102", price: "4800" },
-			{ sku: "D_109", price: "1400" },
-			{ sku: "D_105", price: "2500" },
+			{ sku: "D_108", price: "2100" },
+			{ sku: "D_102", price: "5700" },
+			{ sku: "D_109", price: "1700" },
+			{ sku: "D_105", price: "3000" },
 			{ sku: "D_111", price: "10700" },
 			{ sku: "D_112", price: "3500" },
 			{ sku: "D_113", price: "5500" },
@@ -16,7 +16,7 @@ var configuration = [
 			{ sku: "D_107", price: "1800" },
 			{ sku: "D_110", price: "3500" },
 			{ sku: "D_001", price: "3000" },
-			{ sku: "D_002", price: "3700" },
+			{ sku: "D_002", price: "4400" },
 			{ sku: "D_819", price: "1200" },
 
 			//Аксессуары отображающиеся по условию
@@ -448,7 +448,7 @@ var configuration = [
 			{
 				sku: "D_002", //Комплект лазерной насечки
 				url: "modelPhotos/MG-01_D_002_mastergun_pro1.png",
-				price: 3700
+				price: 4400
 			},
 			{
 				sku: "D_003", //Комплект лазерной насечки (МГ-03)
@@ -516,7 +516,7 @@ var configuration = [
 			{
 				sku: "D_003", //Комплект лазерной насечки (МГ-03)
 				url: "modelPhotos/MG-03_D_003_mastergun_pro1.png",
-				price: 3700
+				price: 4400
 			},
 			{
 				sku: "D_103", //Рельсовый интерфейс M-LOK
@@ -544,7 +544,7 @@ var configuration = [
 			{
 				sku: "D_003", //Комплект лазерной насечки (МГ-03)
 				url: "modelPhotos/MG-03_D_003_mastergun_pro1.png",
-				price: 3700
+				price: 4400
 			},
 			{
 				sku: "D_110", //Регулируемый по длине приклад
@@ -590,7 +590,7 @@ var configuration = [
 			{
 				sku: "D_004", //Комплект лазерной насечки (МГ-05)
 				url: "modelPhotos/MG-05_D_004_mastergun_pro1.png",
-				price: 3700
+				price: 4400
 			},
 			{
 				sku: "D_002", //Комплект лазерной насечки (МГ-01)
@@ -654,7 +654,7 @@ var configuration = [
 			{
 				sku: "D_105", //Быстросъемные антабки QD
 				visible: true,
-				price: 2500
+				price: 3000
 			},
 			{
 				sku: "D_107", //Быстросъемные антабки
@@ -683,6 +683,11 @@ var configuration = [
 			{
 				sku: "D_104", //Втулки крепления ресивера
 				visible: false
+			},
+			{
+				sku: "D_109", //Крепление антабки на M-LOK
+				visible: true,
+				price: 1700
 			},
 		]
 	},
