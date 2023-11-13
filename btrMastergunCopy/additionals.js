@@ -466,7 +466,6 @@ var configuration = [
 				sku: "D_109", //Крепление антабки на M-LOK
 				visible: false
 			},
-			
 		]
 	},
 	{
