@@ -465,7 +465,7 @@ var configuration = [
 		]
 	},
 	{
-		model: "MG_01_Light",
+		model: "MG_01",
 		products: [
 			{
 				sku: "D_109", //Крепление антабки на M-LOK
