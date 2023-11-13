@@ -462,6 +462,11 @@ var configuration = [
 				sku: "D_103", //Рельсовый интерфейс M-LOK
 				visible: false
 			},
+		]
+	},
+	{
+		model: "MG_01_Light",
+		products: [
 			{
 				sku: "D_109", //Крепление антабки на M-LOK
 				visible: false
