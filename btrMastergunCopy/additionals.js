@@ -742,6 +742,10 @@ var configuration = [
 		products: [{sku: "D_820", /*магазин*/visible: false}]
 	},
 	{
+		rifle: "R_CZ-527",//CZ-527
+		products: [{sku: "D_820", /*магазин*/visible: false}]
+	},
+	{
 		rifle: "R_F_H",//Franchi Horizon
 		products: [{sku: "D_820", /*магазин*/visible: false}]
 	},
