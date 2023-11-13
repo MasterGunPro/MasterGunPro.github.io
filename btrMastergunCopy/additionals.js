@@ -619,6 +619,11 @@ var configuration = [
 		model: "MG_08",
 		products: [
 			{
+				sku: "D_109", //Крепление антабки на M-LOK
+				visible: true,
+				price: 1700
+			},
+			{
 				sku: "D_820", //Магазин стандарта AICS 5 местный
 				visible: true,
 				price: 6500
@@ -683,11 +688,6 @@ var configuration = [
 			{
 				sku: "D_104", //Втулки крепления ресивера
 				visible: false
-			},
-			{
-				sku: "D_109", //Крепление антабки на M-LOK
-				visible: true,
-				price: 1700
 			},
 		]
 	},
