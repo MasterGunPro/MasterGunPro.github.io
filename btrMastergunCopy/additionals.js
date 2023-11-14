@@ -438,7 +438,7 @@ var configuration = [
 			{
 				sku: "D_116", //Шасси
 				visible: true,
-				price: 65000
+				price: 85000
 			},
 		]
 	},
