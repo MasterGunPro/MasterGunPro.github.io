@@ -6,7 +6,7 @@ var configuration = [
 			{ sku: "D_102", price: "5700" },
 			{ sku: "D_109", price: "2800" },
 			{ sku: "D_105", price: "3000" },
-			{ sku: "D_111", price: "10700"},
+			{ sku: "D_111", price: "10700" },
 			{ sku: "D_112", price: "3500" },
 			{ sku: "D_113", price: "5500" },
 			{ sku: "D_101", price: "6000" },
