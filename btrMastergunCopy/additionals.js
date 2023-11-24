@@ -694,6 +694,10 @@ var configuration = [
 				sku: "D_104", //Втулки крепления ресивера
 				visible: false
 			},
+			{
+				sku: "D_108", //Планка вивера
+				visible: false
+			},
 		]
 	},
 	{
