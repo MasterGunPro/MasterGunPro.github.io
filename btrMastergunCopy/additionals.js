@@ -621,7 +621,7 @@ var configuration = [
 			{
 				sku: "D_109", //Крепление антабки на M-LOK
 				visible: true,
-				price: 1700
+				price: 2800
 			},
 		]
 	},
